@@ -9,6 +9,10 @@
 * 无线网卡：Fenvi T919(BCM94360CD)
 * 内存：无所谓
 
+使用前配置：
+* 选择mac机型
+* 重新生成序列号和系统UUID
+
 安装后配置：
 1. USB定制 - 用USBMap直接生成kext（https://dortania.github.io/OpenCore-Post-Install/usb/intel-mapping/intel.html）
 2. RTC问题 - 二分法屏蔽CMOS写入（https://dortania.github.io/OpenCore-Post-Install/misc/rtc.html#finding-our-bad-rtc-region）
