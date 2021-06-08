@@ -1,4 +1,4 @@
-# opencore-efi
+# opencore-efi macOS Big Sur 11.4
 
 硬件配置：
 * CPU：Intel 10700
